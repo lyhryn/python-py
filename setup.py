@@ -1,17 +1,17 @@
-# Python meme package by lyryhn
+# AQN meme package by lyryhn
 #            2021
 
 from setuptools import setup
 
 
 setup(
-    name='python',
+    name='aqn',
     version='0.1.0',
-    description='Python Meme Package',
+    description='AQN Meme Package',
     url='https://github.com/lyhryn/python-py',
     author='lyryhn',
     author_email='donttrytodoxme@gmail.com',
-    packages=['python'],
+    packages=['AQN'],
     
     classifiers=[
         'Development Status :: 1 - Planning',
